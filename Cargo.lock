@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "easy_quant_rsch"
+name = "easy_to_quant"
 version = "0.1.0"
